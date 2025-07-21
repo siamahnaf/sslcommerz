@@ -1,5 +1,5 @@
 {
-  "name": "sslcommerz-nodesdk",
+  "name": "@siamf/sslcommerz",
   "version": "1.0.2",
   "description": "A well-maintained, unofficial Node.js package for integrating SSLCommerz payments. Provides reliable support for initiating and handling transactions with minimal setup.",
   "homepage": "https://github.com/siamahnaf/sslcommerz",

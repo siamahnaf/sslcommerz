@@ -125,6 +125,8 @@ const data = {
 const sslResponse = await sslcz.transactionQueryByTransactionId(data);
 ```
 
+### Suggestions, improvements, and pull requests are always welcome.
+
 # Stay in touch
 - Author - [Siam Ahnaf](https://www.siamahnaf.com/)
 - Website - [https://www.siamahnaf.com/](https://www.siamahnaf.com/)

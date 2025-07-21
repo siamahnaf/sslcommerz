@@ -13,7 +13,9 @@
 # @siamf/sslcommerz
 A well-maintained, unofficial Node.js package for integrating SSLCommerz payments. Provides reliable support for initiating and handling transactions with minimal setup.
 
-## This is 100% secure and build with official docs. It doesn't contain and unwanted activity code and the full code is open source.
+## This is 100% secure and build with official docs. It doesn't contain any unwanted activity code and the full code is open source.
+
+### Note: `@siamf/sslcommerz`, `sslcommerz-js`, `sslcommerz-nodesdk` all published from a single codebase, so you can use any of this 3 package
 
 # Installation
 ```javascript
